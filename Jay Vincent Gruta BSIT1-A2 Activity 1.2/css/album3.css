@@ -42,7 +42,7 @@ body{
 
 .image-items{
     background-color: #eee;
-    background: rgb(225, 224, 222);
+    background: rgb(244, 194, 133);
     box-shadow: 0 3px 15px rgba(48, 46, 46, 0.764);
     margin: 10px;
     padding: 20px;
@@ -50,8 +50,8 @@ body{
 
 .image-items img {
     background-color: rgba(180, 176, 176, 0.678);
-    width: 300px;
-    height: 300px;
+    width: 250px;
+    height: 250px;
     max-width: 90%;
     margin-left: 15px;
     margin-top: 20px;
